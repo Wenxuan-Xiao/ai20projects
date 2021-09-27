@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T13:50:29.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="KErSehc6izxqABlSDi7Y" version="15.3.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-27T13:51:14.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="dm5l1XQ-0ENGMQQwLxLX" version="15.3.5" type="github" pages="3">
   <diagram id="JsaeOLvhmnCPcDTUaCLh" name="购物-招聘匹配对比图">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,23 +184,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BwxrJxKUdypryN97CYjT" name="招聘行业发展历程">
-    <mxGraphModel dx="1117" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qqTKIft3bEhiuQPBDXjZ-0" />
         <mxCell id="qqTKIft3bEhiuQPBDXjZ-1" parent="qqTKIft3bEhiuQPBDXjZ-0" />
-        <mxCell id="qqTKIft3bEhiuQPBDXjZ-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#CC0000;rotation=-90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
+        <mxCell id="qqTKIft3bEhiuQPBDXjZ-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#FFCCCC;rotation=-90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
           <mxGeometry x="310" y="60" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5d5CvZsnDra600vt3OqA-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#CC0000;rotation=90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
+        <mxCell id="5d5CvZsnDra600vt3OqA-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#FF9999;rotation=90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
           <mxGeometry x="385" y="140" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5d5CvZsnDra600vt3OqA-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#CC0000;rotation=-90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
+        <mxCell id="5d5CvZsnDra600vt3OqA-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#FF0000;rotation=-90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
           <mxGeometry x="310" y="420" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5d5CvZsnDra600vt3OqA-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#CC0000;rotation=-90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
+        <mxCell id="5d5CvZsnDra600vt3OqA-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#FF6666;rotation=-90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
           <mxGeometry x="310" y="240" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="5d5CvZsnDra600vt3OqA-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#CC0000;rotation=90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
+        <mxCell id="5d5CvZsnDra600vt3OqA-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#FF3333;rotation=90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
           <mxGeometry x="385" y="320" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5d5CvZsnDra600vt3OqA-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.merge_or_storage;whiteSpace=wrap;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fillColor=#CC0000;rotation=90;" vertex="1" parent="qqTKIft3bEhiuQPBDXjZ-1">
