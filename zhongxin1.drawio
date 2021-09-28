@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T04:45:58.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="EM-I1SslPRVhAQX1NAJH" version="15.3.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-28T04:52:25.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="XzPJSI9yMr_Nwa3xRgc7" version="15.3.5" type="github" pages="3">
   <diagram id="JsaeOLvhmnCPcDTUaCLh" name="购物-招聘匹配对比图">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -179,6 +179,27 @@
         </mxCell>
         <mxCell id="31BAdH4sH3fMJC7HUP8j-40" value="&lt;font color=&quot;#000000&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 16px&quot;&gt;甄选&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;fontColor=#FFFFFF;fontFamily=黑体;" vertex="1" parent="nSvVFmzGC3KAbp_YA7p9-1">
           <mxGeometry x="650" y="240" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T9TxM6F-TCDvXLaatiWl-0" value="&lt;font face=&quot;黑体&quot;&gt;办理入职手续&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#CC0000;fontColor=#FFFFFF;" vertex="1" parent="nSvVFmzGC3KAbp_YA7p9-1">
+          <mxGeometry x="80" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9TxM6F-TCDvXLaatiWl-1" value="&lt;font face=&quot;黑体&quot;&gt;体检、录用通知&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#CC0000;fontColor=#FFFFFF;" vertex="1" parent="nSvVFmzGC3KAbp_YA7p9-1">
+          <mxGeometry x="220" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9TxM6F-TCDvXLaatiWl-2" value="&lt;font face=&quot;黑体&quot;&gt;背景调查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#CC0000;fontColor=#FFFFFF;" vertex="1" parent="nSvVFmzGC3KAbp_YA7p9-1">
+          <mxGeometry x="350" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9TxM6F-TCDvXLaatiWl-3" value="&lt;font face=&quot;黑体&quot;&gt;心理测试&lt;br&gt;（重要岗位）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#CC0000;fontColor=#FFFFFF;" vertex="1" parent="nSvVFmzGC3KAbp_YA7p9-1">
+          <mxGeometry x="470" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9TxM6F-TCDvXLaatiWl-4" value="&lt;font face=&quot;黑体&quot;&gt;淘汰&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#CC0000;fontColor=#FFFFFF;" vertex="1" parent="nSvVFmzGC3KAbp_YA7p9-1">
+          <mxGeometry x="470" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9TxM6F-TCDvXLaatiWl-5" value="&lt;font face=&quot;黑体&quot;&gt;复试&lt;br&gt;（笔试、面试）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#CC0000;fontColor=#FFFFFF;" vertex="1" parent="nSvVFmzGC3KAbp_YA7p9-1">
+          <mxGeometry x="470" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9TxM6F-TCDvXLaatiWl-6" value="&lt;font face=&quot;黑体&quot;&gt;初试&lt;br&gt;（笔试、面试）&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;strokeColor=default;fillColor=#CC0000;fontColor=#FFFFFF;" vertex="1" parent="nSvVFmzGC3KAbp_YA7p9-1">
+          <mxGeometry x="470" y="210" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
