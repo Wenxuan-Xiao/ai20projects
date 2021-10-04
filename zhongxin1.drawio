@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T10:52:41.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="b-R0Q6rZGZsZEUfFClhx" version="15.3.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-04T11:29:32.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="6B9eFKjHWm0xpAJ-C7VS" version="15.3.5" type="github" pages="7">
   <diagram id="JsaeOLvhmnCPcDTUaCLh" name="购物-招聘匹配对比图">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -595,7 +595,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aFKMbgeiKy1w0iCvOU60" name="Page-6">
-    <mxGraphModel dx="1564" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="nErV5yxA95PmPod6KY3g-0" />
         <mxCell id="nErV5yxA95PmPod6KY3g-1" parent="nErV5yxA95PmPod6KY3g-0" />
@@ -722,6 +722,14 @@
         <mxCell id="nErV5yxA95PmPod6KY3g-50" value="&lt;font style=&quot;font-size: 14px&quot;&gt;依托多年积累的人才发展实践经验和大数据资源，结合人才发展的能力素质模型和要求，利用O2O的方式，为企业和职场人士提供专业、实用和高效的培训课程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="nErV5yxA95PmPod6KY3g-1">
           <mxGeometry x="10.000000000000002" y="60" width="260.15" height="120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-B74CZ3iPy0OgnJg9VST" name="Page-7">
+    <mxGraphModel dx="1303" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="QJ7MWhhAzoIA3w7jqgmT-0" />
+        <mxCell id="QJ7MWhhAzoIA3w7jqgmT-1" parent="QJ7MWhhAzoIA3w7jqgmT-0" />
       </root>
     </mxGraphModel>
   </diagram>
