@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T04:41:35.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="7MJOkjZ0fLcqPjk2vk_T" version="15.5.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-11-18T02:43:25.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="0M07Pmlp85LTeuRgpgy4" version="15.8.2" type="github" pages="8">
   <diagram id="JsaeOLvhmnCPcDTUaCLh" name="购物-招聘匹配对比图">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -726,7 +726,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-B74CZ3iPy0OgnJg9VST" name="Page-7">
-    <mxGraphModel dx="1303" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QJ7MWhhAzoIA3w7jqgmT-0" />
         <mxCell id="QJ7MWhhAzoIA3w7jqgmT-1" parent="QJ7MWhhAzoIA3w7jqgmT-0" />
@@ -900,6 +900,89 @@
         </mxCell>
         <mxCell id="DOmRr2PJ4FP38w4_EQ-D-40" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;猎头行业头部玩家纷纷上市，互联网招聘面临服务升级，疫情后，灵活用工进入快速增长期，拓宽多种渠道。&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fontFamily=黑体;align=left;" parent="QJ7MWhhAzoIA3w7jqgmT-1" vertex="1">
           <mxGeometry x="525" y="460" width="305" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="P4f795vcxsw9ARuP5wwD" name="Page-8">
+    <mxGraphModel dx="1117" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-0" />
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-1" parent="-W1V9kBhxAdNurWY9MWr-0" />
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;社交业务&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="50" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-4" value="好友" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="75" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-5" value="人脉搜索" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="62.5" y="200" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-6" value="快速找人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="62.5" y="230" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-7" value="求职招聘" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="35" y="260" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="300" as="sourcePoint" />
+            <mxPoint x="190" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;商业化业务&lt;/font&gt;" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="220" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-12" value="脉脉会员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="220" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-13" value="脉课堂" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="237.5" y="210" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-14" value="钱包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="232.5" y="250" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="299.9999999999999" as="sourcePoint" />
+            <mxPoint x="360" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-17" value="&lt;font style=&quot;font-size: 20px&quot;&gt;内容业务&lt;/font&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="395" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-18" value="实名动态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="390" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-19" value="专栏文章" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="407.5" y="200" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-20" value="问答" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="407.5" y="230" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-21" value="职言" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="380" y="260" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="299.9999999999999" as="sourcePoint" />
+            <mxPoint x="540" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-37" value="&lt;font style=&quot;font-size: 20px&quot;&gt;个人相关&lt;/font&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="575" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-38" value="消息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="570" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-39" value="个人主页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="587.5" y="200" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-40" value="个人动态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="587.5" y="230" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-W1V9kBhxAdNurWY9MWr-41" value="..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=黑体;fontSize=16;" vertex="1" parent="-W1V9kBhxAdNurWY9MWr-1">
+          <mxGeometry x="560" y="260" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
